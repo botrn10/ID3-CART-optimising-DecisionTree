@@ -72,7 +72,7 @@ pip install numpy pandas scikit-learn matplotlib
 
 ---
 
-## How to Run
+# How to Run
 
 1. Open the project folder in **Visual Studio Code** or **Jupyter Notebook**.
 2. Open the file `Hybrid-Weighted-alpha.ipynb`.
@@ -84,7 +84,7 @@ pip install numpy pandas scikit-learn matplotlib
 
 ---
 
-## Output Description
+# Output Description
 
 - Trained hybrid decision tree model
 - Classification accuracy on both training and testing datasets
@@ -93,7 +93,7 @@ pip install numpy pandas scikit-learn matplotlib
 
 ---
 
-## Evaluation Metrics
+# Evaluation Metrics
 
 - Accuracy
 - F1-score
@@ -107,7 +107,7 @@ These metrics are used to assess the effectiveness of the proposed hybrid decisi
 
 ---
 
-## Learning Outcomes
+# Learning Outcomes
 
 Through this project, the following outcomes were achieved:
 
